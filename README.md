@@ -25,6 +25,9 @@
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
 ![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=c-sharp)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
+![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-black?style=flat-square&logo=adobe-photoshop)
+![Adobe Illustrator](https://img.shields.io/badge/-Illustrator-black?style=flat-square&logo=adobe-illustrator)
+![CorelDRAW](https://img.shields.io/badge/-CorelDRAW-black?style=flat-square&logo=coreldraw)
 
 ---
 
