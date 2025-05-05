@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Malik</h1>
+<h1 align="center">Hey there 👋, I'm Malik a.k.a **Rabita**</h1>
 <p align="center">
   🚀 Software Engineering Undergrad • Full-Stack Dev • Bass Guitarist in Training 🎸  
 </p>
@@ -7,7 +7,7 @@
 
 ### 💡 About Me
 
-- 🔭 I’m currently building **Rabita/Rabitech** — a tech company inspired by a childhood name  
+- 🔭 I’m currently building **Rabitech** — a tech company inspired by a childhood name  
 - 🧠 Learning how to scale full-stack apps & build clean, maintainable systems  
 - 📸 I also dabble in **photography** and love visual storytelling  
 - 🛠️ Passionate about **tech-for-good**, clean UI/UX, and open-source collabs  
@@ -34,6 +34,6 @@
 ### 🔍 Current Focus
 
 ```txt
-🧱 Building: Rabita/Rabitech – a place where people can get their web solutions done
+🧱 Building: Rabitech – a place where people can get their web solutions done
 🎨 Experimenting with creative design systems in Figma  
 🎓 Always learning — leveling up frontend & backend skills
