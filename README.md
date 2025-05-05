@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Malik a.k.a **Rabita**</h1>
+<h1 align="center">Hey there 👋, I'm Malik a.k.a <span style="color:#00BFFF"><strong>Rabita</strong></span></h1>
 <p align="center">
   🚀 Software Engineering Undergrad • Full-Stack Dev • Bass Guitarist in Training 🎸  
 </p>
