@@ -12,6 +12,7 @@
 - 📸 I also dabble in **photography** and love visual storytelling  
 - 🛠️ Passionate about **tech-for-good**, clean UI/UX, and open-source collabs  
 - 🧑‍💻 Always down to talk code, startups, or how music & tech vibe together
+- ⚡ I'm a Fast Learner
 
 ---
 
